@@ -1,0 +1,7 @@
+D:\UNREAL\ComponentePlataforma\Intermediate\Build\Win64\UE4Editor\Development\ComponentePlataforma\Definitions.ComponentePlataforma.h
+D:\UNREAL\ComponentePlataforma\Source\ComponentePlataforma\Projectile.h
+D:\UNREAL\ComponentePlataforma\Intermediate\Build\Win64\UE4Editor\Inc\ComponentePlataforma\Projectile.generated.h
+D:\UNREAL\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/ProjectileMovementComponent.h
+D:\UNREAL\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/MovementComponent.h
+D:\UNREAL\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MovementComponent.generated.h
+D:\UNREAL\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ProjectileMovementComponent.generated.h

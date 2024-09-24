@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\UNREAL\\ComponentePlataforma\\Source\\ComponentePlataforma\\ComponentePlataforma.Build.cs",
+		"D:\\UNREAL\\ComponentePlataforma\\Source\\ComponentePlataforma.Target.cs",
+		"D:\\UNREAL\\ComponentePlataforma\\Source\\ComponentePlataformaEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

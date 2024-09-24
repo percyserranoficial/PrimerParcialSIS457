@@ -1,0 +1,12 @@
+D:\UNREAL\ComponentePlataforma\Intermediate\Build\Win64\UE4Editor\Development\ComponentePlataforma\Definitions.ComponentePlataforma.h
+D:\UNREAL\ComponentePlataforma\Source\ComponentePlataforma\MuroLadrillo.h
+D:\UNREAL\ComponentePlataforma\Source\ComponentePlataforma\Muro.h
+D:\UNREAL\ComponentePlataforma\Intermediate\Build\Win64\UE4Editor\Inc\ComponentePlataforma\Muro.generated.h
+D:\UNREAL\ComponentePlataforma\Intermediate\Build\Win64\UE4Editor\Inc\ComponentePlataforma\MuroLadrillo.generated.h
+D:\UNREAL\UE_4.27\Engine\Source\Runtime\Engine\Classes\Particles/ParticleSystemComponent.h
+D:\UNREAL\UE_4.27\Engine\Source\Runtime\Engine\Classes\Particles/ParticleSystem.h
+D:\UNREAL\UE_4.27\Engine\Source\Runtime\Engine\Classes\Particles/ParticlePerfStats.h
+D:\UNREAL\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ParticleSystem.generated.h
+D:\UNREAL\UE_4.27\Engine\Source\Runtime\Engine\Classes\Particles/Emitter.h
+D:\UNREAL\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Emitter.generated.h
+D:\UNREAL\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ParticleSystemComponent.generated.h

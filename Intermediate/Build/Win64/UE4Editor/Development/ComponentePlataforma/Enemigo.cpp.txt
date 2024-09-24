@@ -1,0 +1,3 @@
+D:\UNREAL\ComponentePlataforma\Intermediate\Build\Win64\UE4Editor\Development\ComponentePlataforma\Definitions.ComponentePlataforma.h
+D:\UNREAL\ComponentePlataforma\Source\ComponentePlataforma\Enemigo.h
+D:\UNREAL\ComponentePlataforma\Intermediate\Build\Win64\UE4Editor\Inc\ComponentePlataforma\Enemigo.generated.h

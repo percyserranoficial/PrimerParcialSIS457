@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ComponentePlataforma.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{FBC09E3E-4CD0-4798-AB6E-329B3E753FF4}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ComponentePlataforma.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ComponentePlataformaEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{B67E5856-F56D-42C6-954B-A4A8E02C62DC}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\ComponentePlataforma">
+      <UniqueIdentifier>{89102066-175A-4A86-8E77-B0DA86D3769E}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ComponentePlataforma\ComPlataformas.cpp">
+      <Filter>Source\ComponentePlataforma</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ComponentePlataforma\ComPlataformas.h">
+      <Filter>Source\ComponentePlataforma</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\ComponentePlataforma\ComponentePlataforma.Build.cs">
+      <Filter>Source\ComponentePlataforma</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ComponentePlataforma\ComponentePlataforma.cpp">
+      <Filter>Source\ComponentePlataforma</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ComponentePlataforma\ComponentePlataforma.h">
+      <Filter>Source\ComponentePlataforma</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ComponentePlataforma\ComponentePlataformaCharacter.cpp">
+      <Filter>Source\ComponentePlataforma</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ComponentePlataforma\ComponentePlataformaCharacter.h">
+      <Filter>Source\ComponentePlataforma</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ComponentePlataforma\ComponentePlataformaGameMode.cpp">
+      <Filter>Source\ComponentePlataforma</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ComponentePlataforma\ComponentePlataformaGameMode.h">
+      <Filter>Source\ComponentePlataforma</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ComponentePlataforma\Disparador.cpp">
+      <Filter>Source\ComponentePlataforma</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ComponentePlataforma\Disparador.h">
+      <Filter>Source\ComponentePlataforma</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ComponentePlataforma\Enemigo.cpp">
+      <Filter>Source\ComponentePlataforma</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ComponentePlataforma\Enemigo.h">
+      <Filter>Source\ComponentePlataforma</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ComponentePlataforma\Muro.cpp">
+      <Filter>Source\ComponentePlataforma</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ComponentePlataforma\Muro.h">
+      <Filter>Source\ComponentePlataforma</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ComponentePlataforma\MuroCongelado.cpp">
+      <Filter>Source\ComponentePlataforma</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ComponentePlataforma\MuroCongelado.h">
+      <Filter>Source\ComponentePlataforma</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ComponentePlataforma\MuroElectrico.cpp">
+      <Filter>Source\ComponentePlataforma</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ComponentePlataforma\MuroElectrico.h">
+      <Filter>Source\ComponentePlataforma</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ComponentePlataforma\MuroEspinas.cpp">
+      <Filter>Source\ComponentePlataforma</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ComponentePlataforma\MuroEspinas.h">
+      <Filter>Source\ComponentePlataforma</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ComponentePlataforma\MuroLadrillo.cpp">
+      <Filter>Source\ComponentePlataforma</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ComponentePlataforma\MuroLadrillo.h">
+      <Filter>Source\ComponentePlataforma</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ComponentePlataforma\MuroPegajoso.cpp">
+      <Filter>Source\ComponentePlataforma</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ComponentePlataforma\MuroPegajoso.h">
+      <Filter>Source\ComponentePlataforma</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ComponentePlataforma\Projectile.cpp">
+      <Filter>Source\ComponentePlataforma</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ComponentePlataforma\Projectile.h">
+      <Filter>Source\ComponentePlataforma</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,13 @@
+D:\UNREAL\ComponentePlataforma\Intermediate\Build\Win64\UE4Editor\Development\ComponentePlataforma\Definitions.ComponentePlataforma.h
+D:\UNREAL\ComponentePlataforma\Source\ComponentePlataforma\MuroEspinas.h
+D:\UNREAL\ComponentePlataforma\Source\ComponentePlataforma\Muro.h
+D:\UNREAL\ComponentePlataforma\Intermediate\Build\Win64\UE4Editor\Inc\ComponentePlataforma\Muro.generated.h
+D:\UNREAL\ComponentePlataforma\Intermediate\Build\Win64\UE4Editor\Inc\ComponentePlataforma\MuroEspinas.generated.h
+D:\UNREAL\ComponentePlataforma\Source\ComponentePlataforma\ComponentePlataformaCharacter.h
+D:\UNREAL\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+D:\UNREAL\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
+D:\UNREAL\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementReplication.generated.h
+D:\UNREAL\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+D:\UNREAL\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+D:\UNREAL\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+D:\UNREAL\ComponentePlataforma\Intermediate\Build\Win64\UE4Editor\Inc\ComponentePlataforma\ComponentePlataformaCharacter.generated.h

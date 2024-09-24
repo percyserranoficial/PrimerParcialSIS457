@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ComponentePlataforma",
+			"Path": "D:\\UNREAL\\ComponentePlataforma\\Source\\ComponentePlataforma.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ComponentePlataformaEditor",
+			"Path": "D:\\UNREAL\\ComponentePlataforma\\Source\\ComponentePlataformaEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

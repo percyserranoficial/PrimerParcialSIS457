@@ -1,0 +1,5 @@
+D:\UNREAL\ComponentePlataforma\Intermediate\Build\Win64\UE4Editor\Development\ComponentePlataforma\Definitions.ComponentePlataforma.h
+D:\UNREAL\ComponentePlataforma\Source\ComponentePlataforma\Disparador.h
+D:\UNREAL\ComponentePlataforma\Intermediate\Build\Win64\UE4Editor\Inc\ComponentePlataforma\Disparador.generated.h
+D:\UNREAL\ComponentePlataforma\Source\ComponentePlataforma\Projectile.h
+D:\UNREAL\ComponentePlataforma\Intermediate\Build\Win64\UE4Editor\Inc\ComponentePlataforma\Projectile.generated.h
